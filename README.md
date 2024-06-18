@@ -1,5 +1,4 @@
-# EdgellTECH272Summer2024
- echo "# EdgellTECH272Summer2024" >> README.md
+echo "# EdgellTECH272Summer2024" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
